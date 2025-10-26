@@ -129,6 +129,6 @@ forecast_B1, model_B1 = forecast_arima(series, steps=12)
 ## 🏦 Reference
 
 - **Data Source:** [Reserve Bank of India – Weekly Statistical Supplement](https://rbi.org.in/Scripts/BS_ViewWss.aspx)  
-- **Project Author:** Aneerban Chowdhury  
+- **Project Author:** Aneerban Chowdhury, Sneha Sawla, Neha Challa  
 - **Tools Used:** Python, pandas, matplotlib, statsmodels  
 - **Dataset Frequency:** Weekly  
